@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherLocation</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyD5lOyoA9ncrJOmHGkaR7svB_7SpV9VK_I
+    </string>
+
+</resources>
